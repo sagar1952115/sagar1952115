@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar1952115&show_icons=true&locale=en&layout=compact" alt="sagar1952115" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar1952115&show_icons=true&locale=en" alt="sagar1952115" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sagar1952115)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar1952115&" alt="sagar1952115" /></p>
