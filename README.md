@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Next, React Redux,Javascript**
 
-- 📫 How to reach me **1234sagarkumar12@gmail.com**
+- 📫 How to reach me **sagarkumarme1@gmail.com**
 
 - ⚡ Fun fact **I am good in lightening mood.**
 
