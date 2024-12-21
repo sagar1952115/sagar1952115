@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar1952115&show_icons=true&locale=en&layout=compact" alt="sagar1952115" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sagar1952115)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sagar1952115&card_height=180)](https://git.io/streak-stats)
